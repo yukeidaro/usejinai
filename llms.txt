@@ -1,0 +1,24 @@
+# usejinai.com
+
+> usejinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is an AI assistant for teams. It spots repetitive work in the email, calendar, chat, and files a team connects, prepares drafts such as meeting briefs, status updates, and replies, and learns from each approval, edit, or skip. It never sends anything without a person's approval. Customer data is not used to train AI models. The official site is https://jinai.md/.
+
+## Pages
+
+- [Use Jin AI | Guides for Teams Using a Proactive AI Assistant](https://usejinai.com/): Practical guides for using an AI assistant that prepares repetitive work: meeting prep, weekly updates, follow-ups, and admin controls, organized by role and task.
+- [How to Use an AI Assistant That Prepares Work Before You Ask | usejinai](https://usejinai.com/guides/proactive-ai-assistant/): What a proactive AI assistant is, how to start in four steps, examples by role, and answers to common questions. A practical guide from the Jin AI team.
+
+## Key facts
+
+- Works with: Gmail, Outlook, Google Calendar, Slack, Microsoft Teams
+- Output: drafts for review (briefs, agendas, updates, replies)
+- Admin controls: choose teams and tools; exclude folders, channels, labels, or teams
+- Privacy: findings go to the employee, not their manager; no scoring or ranking of people; each company's data kept separate
+- How to start: one team and one repetitive task (pilot)
+- Demo and contact: https://jinai.md/ (hello@jinai.md)
+
+## Related sites
+
+- https://jinai.md/ (official Jin AI site)
+- https://getjinai.com/ (ways to get Jin AI)
+- https://tryjinai.com/ (pilot program)
+- https://usejinai.com/ (guides)
