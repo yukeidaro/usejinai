@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://usejinai.com/</loc><lastmod>2026-10-29</lastmod></url>
-  <url><loc>https://usejinai.com/guides/proactive-ai-assistant/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://usejinai.com/</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://usejinai.com/guides/</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://usejinai.com/guides/proactive-ai-assistant/</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://usejinai.com/guides/meeting-prep/</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://usejinai.com/guides/weekly-status-update/</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://usejinai.com/guides/follow-ups/</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://usejinai.com/guides/what-an-ai-assistant-should-read/</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://usejinai.com/guides/why-teams-still-do-the-work/</loc><lastmod>2026-10-31</lastmod></url>
 </urlset>

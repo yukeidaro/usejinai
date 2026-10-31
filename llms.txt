@@ -6,6 +6,12 @@
 
 - [Use Jin AI | Guides for Teams Using a Proactive AI Assistant](https://usejinai.com/): Practical guides for using an AI assistant that prepares repetitive work: meeting prep, weekly updates, follow-ups, and admin controls, organized by role and task.
 - [How to Use an AI Assistant That Prepares Work Before You Ask | usejinai](https://usejinai.com/guides/proactive-ai-assistant/): What a proactive AI assistant is, how to start in four steps, examples by role, and answers to common questions. A practical guide from the Jin AI team.
+- [All guides](https://usejinai.com/guides/): Index by role, task, and for admins
+- [How to Stop Preparing for Meetings by Hand](https://usejinai.com/guides/meeting-prep/): Briefs and agendas built from the conversations that led up to the meeting.
+- [How to Write the Weekly Status Update Without the Scramble](https://usejinai.com/guides/weekly-status-update/): Start from a draft of what moved this week, not a blank page.
+- [Follow-Ups That Don't Slip: Customers and Candidates](https://usejinai.com/guides/follow-ups/): Replies drafted after calls and when a customer or candidate is still waiting.
+- [What an AI Assistant Should and Should Not Read](https://usejinai.com/guides/what-an-ai-assistant-should-read/): How admins choose what Jin can use, and what it never does.
+- [Why Your Team Uses AI Tools but Still Does the Work](https://usejinai.com/guides/why-teams-still-do-the-work/): Most AI tools wait for a request. The prep work stays with people.
 
 ## Key facts
 
