@@ -1,11 +1,11 @@
 # usejinai.com
 
-> usejinai.com handles sales for Jin AI and is operated by Jin AI. It publishes GTM playbooks for B2B SaaS marketing teams. Jin AI is the GTM engineer agent for B2B SaaS marketing teams: it learns how a team's best marketers run campaigns and turns that work into agentic workflows the whole team can run. Capture is opt-in for each marketer. Customer data is not used to train AI models. The official site is https://jinai.md/.
+> usejinai.com handles sales for Jin AI and is operated by Jin AI. It publishes GTM playbooks for B2B SaaS marketing teams. Jin AI is the GTM engineer agent for B2B SaaS marketing teams: it learns how a team's best marketers run campaigns and turns that work into agentic workflows the whole team can run. Jin uses only company-approved data. Customer data is not used to train AI models. The official site is https://jinai.md/.
 
 ## Pages
 
 - [Use Jin AI | GTM Playbooks for B2B SaaS Marketing Teams](https://usejinai.com/): GTM playbooks for B2B SaaS marketing teams.
-- [The Event Marketing Workflow, End to End](https://usejinai.com/guides/event-marketing-workflow/): The six stages of an event campaign and how to make it repeatable.
+- [The Event Marketing Workflow, End to End](https://usejinai.com/guides/event-marketing-workflow/): The stages of an event campaign, including stakeholder meetings, and how to make it repeatable.
 - [GTM Engineer or GTM Engineer Agent?](https://usejinai.com/guides/gtm-engineer-vs-agent/): What a GTM engineer does for marketing, and when an agent is the better first step.
 - [How to Use an AI Assistant That Prepares Work Before You Ask | usejinai](https://usejinai.com/guides/proactive-ai-assistant/): What a proactive AI assistant is, how to start in four steps, examples by role, and answers to common questions. A practical guide from the Jin AI team.
 - [All guides](https://usejinai.com/guides/): Index by role, task, and for admins
