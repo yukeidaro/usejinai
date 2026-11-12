@@ -1,10 +1,12 @@
 # usejinai.com
 
-> usejinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is an AI assistant for teams. It spots repetitive work in the email, calendar, chat, and files a team connects, prepares drafts such as meeting briefs, status updates, and replies, and learns from each approval, edit, or skip. It never sends anything without a person's approval. Customer data is not used to train AI models. The official site is https://jinai.md/.
+> usejinai.com handles sales for Jin AI and is operated by Jin AI. It publishes GTM playbooks for B2B SaaS marketing teams. Jin AI is the GTM engineer agent for B2B SaaS marketing teams: it learns how a team's best marketers run campaigns and turns that work into agentic workflows the whole team can run. Capture is opt-in for each marketer. Customer data is not used to train AI models. The official site is https://jinai.md/.
 
 ## Pages
 
-- [Use Jin AI | Guides for Teams Using a Proactive AI Assistant](https://usejinai.com/): Practical guides for using an AI assistant that prepares repetitive work: meeting prep, weekly updates, follow-ups, and admin controls, organized by role and task.
+- [Use Jin AI | GTM Playbooks for B2B SaaS Marketing Teams](https://usejinai.com/): GTM playbooks for B2B SaaS marketing teams.
+- [The Event Marketing Workflow, End to End](https://usejinai.com/guides/event-marketing-workflow/): The six stages of an event campaign and how to make it repeatable.
+- [GTM Engineer or GTM Engineer Agent?](https://usejinai.com/guides/gtm-engineer-vs-agent/): What a GTM engineer does for marketing, and when an agent is the better first step.
 - [How to Use an AI Assistant That Prepares Work Before You Ask | usejinai](https://usejinai.com/guides/proactive-ai-assistant/): What a proactive AI assistant is, how to start in four steps, examples by role, and answers to common questions. A practical guide from the Jin AI team.
 - [All guides](https://usejinai.com/guides/): Index by role, task, and for admins
 - [How to Stop Preparing for Meetings by Hand](https://usejinai.com/guides/meeting-prep/): Briefs and agendas built from the conversations that led up to the meeting.
