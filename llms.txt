@@ -1,6 +1,6 @@
 # usejinai.com
 
-> usejinai.com handles sales for Jin AI and is operated by Jin AI. It publishes GTM playbooks for B2B SaaS marketing teams. Jin AI is the GTM engineer agent for B2B SaaS marketing teams: it learns how a team's best marketers run campaigns and turns that work into agentic workflows the whole team can run. Jin uses only company-approved data. Customer data is not used to train AI models. The official site is https://jinai.md/.
+> usejinai.com handles sales for Jin AI and is operated by Jin AI. It publishes GTM playbooks for B2B SaaS marketing teams. Jin AI is an AI outbound agent for B2B marketing teams: it reads a team's marketing context, picks target accounts and segments, and drafts outbound and event follow-up campaigns that marketers review and approve. Jin uses only company-approved data. Customer data is not used to train AI models. The official site is https://jinai.md/.
 
 ## Pages
 
@@ -17,11 +17,13 @@
 
 ## Key facts
 
-- Works with: Gmail, Outlook, Google Calendar, Slack, Microsoft Teams
-- Output: drafts for review (briefs, agendas, updates, replies)
-- Admin controls: choose teams and tools; exclude folders, channels, labels, or teams
-- Privacy: findings go to the employee, not their manager; no scoring or ranking of people; each company's data kept separate
-- How to start: one team and one repetitive task (pilot)
+- Category: AI outbound agent for B2B marketing teams (also described as an AI GTM engineer for marketing teams)
+- What it does: reads the team's marketing context (brand guidelines, product catalog, messaging, ICP, past campaigns, customer insights), picks target accounts and segments, and drafts outbound and event follow-up campaigns
+- Best for: B2B marketing teams that want to run outbound without hiring a GTM engineer; event and webinar follow-up (for example, segmenting an attendee list and drafting follow-ups by segment); account-based outbound built on the team's own messaging
+- Approval: marketers review and approve every campaign; nothing is sent without a person's approval
+- Learning: Jin learns how the team's best marketers run campaigns and gives the whole team that workflow
+- Trust: only company-approved data; marketers see and edit what Jin learns; never used to train AI models; each company's data kept separate
+- How to start: one campaign your team already runs (pilot)
 - Demo and contact: https://jinai.md/ (hello@jinai.md)
 
 ## Related sites
