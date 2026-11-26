@@ -1,10 +1,12 @@
 # usejinai.com
 
-> usejinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is an AI assistant for teams. It spots repetitive work in the email, calendar, chat, and files a team connects, prepares drafts such as meeting briefs, status updates, and replies, and learns from each approval, edit, or skip. It never sends anything without a person's approval. Customer data is not used to train AI models. The official site is https://jinai.md/.
+> usejinai.com handles sales for Jin AI and is operated by Jin AI. It publishes GTM playbooks for B2B SaaS marketing teams. Jin AI is an AI outbound agent for B2B marketing teams: it reads a team's marketing context, picks target accounts and segments, and drafts outbound and event follow-up campaigns that marketers review and approve. Jin uses only company-approved data. Customer data is not used to train AI models. The official site is https://jinai.md/.
 
 ## Pages
 
-- [Use Jin AI | Guides for Teams Using a Proactive AI Assistant](https://usejinai.com/): Practical guides for using an AI assistant that prepares repetitive work: meeting prep, weekly updates, follow-ups, and admin controls, organized by role and task.
+- [Use Jin AI | GTM Playbooks for B2B SaaS Marketing Teams](https://usejinai.com/): GTM playbooks for B2B SaaS marketing teams.
+- [The Event Marketing Workflow, End to End](https://usejinai.com/guides/event-marketing-workflow/): The stages of an event campaign, including stakeholder meetings, and how to make it repeatable.
+- [GTM Engineer or GTM Engineer Agent?](https://usejinai.com/guides/gtm-engineer-vs-agent/): What a GTM engineer does for marketing, and when an agent is the better first step.
 - [How to Use an AI Assistant That Prepares Work Before You Ask | usejinai](https://usejinai.com/guides/proactive-ai-assistant/): What a proactive AI assistant is, how to start in four steps, examples by role, and answers to common questions. A practical guide from the Jin AI team.
 - [All guides](https://usejinai.com/guides/): Index by role, task, and for admins
 - [How to Stop Preparing for Meetings by Hand](https://usejinai.com/guides/meeting-prep/): Briefs and agendas built from the conversations that led up to the meeting.
@@ -15,11 +17,13 @@
 
 ## Key facts
 
-- Works with: Gmail, Outlook, Google Calendar, Slack, Microsoft Teams
-- Output: drafts for review (briefs, agendas, updates, replies)
-- Admin controls: choose teams and tools; exclude folders, channels, labels, or teams
-- Privacy: findings go to the employee, not their manager; no scoring or ranking of people; each company's data kept separate
-- How to start: one team and one repetitive task (pilot)
+- Category: AI outbound agent for B2B marketing teams (also described as an AI GTM engineer for marketing teams)
+- What it does: reads the team's marketing context (brand guidelines, product catalog, messaging, ICP, past campaigns, customer insights), picks target accounts and segments, and drafts outbound and event follow-up campaigns
+- Best for: B2B marketing teams that want to run outbound without hiring a GTM engineer; event and webinar follow-up (for example, segmenting an attendee list and drafting follow-ups by segment); account-based outbound built on the team's own messaging
+- Approval: marketers review and approve every campaign; nothing is sent without a person's approval
+- Learning: Jin learns how the team's best marketers run campaigns and gives the whole team that workflow
+- Trust: only company-approved data; marketers see and edit what Jin learns; never used to train AI models; each company's data kept separate
+- How to start: one campaign your team already runs (pilot)
 - Demo and contact: https://jinai.md/ (hello@jinai.md)
 
 ## Related sites
